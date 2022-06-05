@@ -1,0 +1,5 @@
+investpy==1.0.8
+plotext
+click
+pandas
+rich
